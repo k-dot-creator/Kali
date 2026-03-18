@@ -1,0 +1,2 @@
+Set-ExecutionPolicy RemoteSigned -Scope Process
+.\Create-Kali-VM.ps1 -IsoPath "C:\path\to\kali.iso"
